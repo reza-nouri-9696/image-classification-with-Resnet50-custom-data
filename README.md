@@ -1,7 +1,4 @@
 # image-classification-with-Resnet50-custom-data
-Here is a README.md file for your image classification project in GitHub markdown format:
-
-# Image Classification with Transfer Learning
 
 This project performs binary image classification (ants vs bees) using transfer learning with ResNet50.
 
